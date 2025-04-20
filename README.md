@@ -1,4 +1,11 @@
-# cursor: not-allowed
+<pre align="center">
+✦ <b><i>Part 3</i></b> of the ⭐ <a href="https://github.com/kohrachel/60-min-coding">60-min coding</a> ⭐ series ✦
+    
+Every week, 🧑🏻‍💻 <a href="https://github.com/zineanteoh">@zineanteoh</a> and I give ourselves ⏰ <b>1 hour</b> ⏰ to make something with AI.
+Here are the version 0s of the coolest stuff we dreamed up.
+</pre> 
+
+# ❌ cursor: not-allowed
 
 Every week, [@zineanteoh](https://github.com/zineanteoh) and I give ourselves an hour to create a goofy project solely with AI. No human coding, any idea you can think of.
 
@@ -15,7 +22,7 @@ Cursor Pro
 Typescript
 Vite 
 
-# Previews:
+# 👀 Demo Time:
 
 Before you ask, I spent 20 minutes fighting Tailwind, so I built all of this without being able to see any of the styling. Which is why it looks the way it looks. 
 
